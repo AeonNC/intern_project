@@ -31,8 +31,6 @@ The dataset used includes information about:
 - Customer demographics
 - Reservation status (Canceled or Not)
 
-> Note: Dataset source: [Mention Dataset Source if available like Kaggle URL
-
 ## 📊 Key Insights
 
 - Higher cancellation rates were seen in city hotels during weekends.
