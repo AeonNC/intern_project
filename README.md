@@ -46,6 +46,3 @@ The dataset used includes information about:
 - Cancellations by Deposit Type
 - Special Requests Heatmap
 - Repeated Guests vs First-time Visitors
-
-## 📎 Project Structure
-
